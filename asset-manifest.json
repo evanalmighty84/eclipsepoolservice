@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.f737c20a.css",
-    "main.js": "/static/js/main.824eb453.js",
+    "main.css": "/static/css/main.a89ed465.css",
+    "main.js": "/static/js/main.7d5d8448.js",
     "static/media/Clearly.gif": "/static/media/Clearly.893372afed6e88193fc3.gif",
     "static/media/NewEclipseMovie.mp4": "/static/media/NewEclipseMovie.9d7cfa7a08d2b9de69e6.mp4",
+    "static/media/Picture10.jpg": "/static/media/Picture10.81dbbd2b528b95b0171c.jpg",
     "static/media/9thpicture.webp": "/static/media/9thpicture.26fc376e6abdf23c4837.webp",
-    "static/media/6thpicture.jpg": "/static/media/6thpicture.45291adff4e4e1d960d2.jpg",
     "static/media/logopoolservice.png": "/static/media/logopoolservice.89d610e2c7d3ee0fd46b.png",
     "static/media/layingbythepool.jpg": "/static/media/layingbythepool.8fe183a6d506a96af75b.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -18,11 +18,11 @@
     "static/media/img.png": "/static/media/img.7fbb948976a0776011d1.png",
     "static/media/palmtrees.png": "/static/media/palmtrees.7d51879bef74abc89d27.png",
     "index.html": "/index.html",
-    "main.f737c20a.css.map": "/static/css/main.f737c20a.css.map",
-    "main.824eb453.js.map": "/static/js/main.824eb453.js.map"
+    "main.a89ed465.css.map": "/static/css/main.a89ed465.css.map",
+    "main.7d5d8448.js.map": "/static/js/main.7d5d8448.js.map"
   },
   "entrypoints": [
-    "static/css/main.f737c20a.css",
-    "static/js/main.824eb453.js"
+    "static/css/main.a89ed465.css",
+    "static/js/main.7d5d8448.js"
   ]
 }
