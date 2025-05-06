@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/eclipsepoolservice/static/css/main.505f0a2b.css",
+    "main.js": "/eclipsepoolservice/static/js/main.15218b7f.js",
+    "static/media/Clearly.gif": "/eclipsepoolservice/static/media/Clearly.893372afed6e88193fc3.gif",
+    "static/media/EclipseMovie.mp4": "/eclipsepoolservice/static/media/EclipseMovie.316d490b17901e3d2ea2.mp4",
+    "static/media/9thpicture.webp": "/eclipsepoolservice/static/media/9thpicture.26fc376e6abdf23c4837.webp",
+    "static/media/6thpicture.jpg": "/eclipsepoolservice/static/media/6thpicture.45291adff4e4e1d960d2.jpg",
+    "static/media/logopoolservice.png": "/eclipsepoolservice/static/media/logopoolservice.89d610e2c7d3ee0fd46b.png",
+    "static/media/layingbythepool.jpg": "/eclipsepoolservice/static/media/layingbythepool.8fe183a6d506a96af75b.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/eclipsepoolservice/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/7thpicture.jpeg": "/eclipsepoolservice/static/media/7thpicture.c1fb0721ce0612666dae.jpeg",
+    "static/media/fontawesome-webfont.eot": "/eclipsepoolservice/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/eclipsepoolservice/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/eclipsepoolservice/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/8thpicture.jpg": "/eclipsepoolservice/static/media/8thpicture.f7a5fc6515b5b2c9ea61.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/eclipsepoolservice/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/img.png": "/eclipsepoolservice/static/media/img.7fbb948976a0776011d1.png",
+    "static/media/palmtrees.png": "/eclipsepoolservice/static/media/palmtrees.7d51879bef74abc89d27.png",
+    "index.html": "/eclipsepoolservice/index.html",
+    "main.505f0a2b.css.map": "/eclipsepoolservice/static/css/main.505f0a2b.css.map",
+    "main.15218b7f.js.map": "/eclipsepoolservice/static/js/main.15218b7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505f0a2b.css",
+    "static/js/main.15218b7f.js"
+  ]
+}
