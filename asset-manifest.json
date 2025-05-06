@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/eclipsepoolservice/static/css/main.8222f22d.css",
-    "main.js": "/eclipsepoolservice/static/js/main.d902e109.js",
+    "main.js": "/eclipsepoolservice/static/js/main.0ef00f9a.js",
     "static/media/Clearly.gif": "/eclipsepoolservice/static/media/Clearly.893372afed6e88193fc3.gif",
-    "static/media/EclipseMovie.mp4": "/eclipsepoolservice/static/media/EclipseMovie.22ceb50ce68917a3953d.mp4",
+    "static/media/NewEclipseMovie.mp4": "/eclipsepoolservice/static/media/NewEclipseMovie.9d7cfa7a08d2b9de69e6.mp4",
     "static/media/9thpicture.webp": "/eclipsepoolservice/static/media/9thpicture.26fc376e6abdf23c4837.webp",
     "static/media/6thpicture.jpg": "/eclipsepoolservice/static/media/6thpicture.45291adff4e4e1d960d2.jpg",
     "static/media/logopoolservice.png": "/eclipsepoolservice/static/media/logopoolservice.89d610e2c7d3ee0fd46b.png",
@@ -19,10 +19,10 @@
     "static/media/palmtrees.png": "/eclipsepoolservice/static/media/palmtrees.7d51879bef74abc89d27.png",
     "index.html": "/eclipsepoolservice/index.html",
     "main.8222f22d.css.map": "/eclipsepoolservice/static/css/main.8222f22d.css.map",
-    "main.d902e109.js.map": "/eclipsepoolservice/static/js/main.d902e109.js.map"
+    "main.0ef00f9a.js.map": "/eclipsepoolservice/static/js/main.0ef00f9a.js.map"
   },
   "entrypoints": [
     "static/css/main.8222f22d.css",
-    "static/js/main.d902e109.js"
+    "static/js/main.0ef00f9a.js"
   ]
 }
